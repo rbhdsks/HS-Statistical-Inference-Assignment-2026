@@ -1,0 +1,10 @@
+Indicator,Code,N,Missing,Missing_years,Status
+GDP_per_capita,NY.GDP.PCAP.KD,15,0,,OK
+GDP_growth,NY.GDP.MKTP.KD.ZG,15,0,,OK
+Life_expectancy,SP.DYN.LE00.IN,15,0,,OK
+Basic_drinking_water,SH.H2O.BASW.ZS,15,0,,OK
+Secondary_school_enrollment,SE.SEC.ENRR,14,1,2018,OK
+Electricity_access,EG.ELC.ACCS.ZS,15,0,,OK
+Internet_users,IT.NET.USER.ZS,15,0,,OK
+CO2_per_capita,EN.ATM.CO2E.PC,,,Not assessed: download failed,DOWNLOAD_FAILED
+Forest_area,AG.LND.FRST.ZS,14,1,2024,OK
