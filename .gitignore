@@ -1,0 +1,9 @@
+
+# Python environment
+.venv/
+
+# Temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
