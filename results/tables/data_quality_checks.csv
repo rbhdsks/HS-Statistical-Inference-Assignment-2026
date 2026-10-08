@@ -1,0 +1,16 @@
+Check,Passed,Source_file,Checked_at_UTC
+Exactly 15 annual rows,True,data/processed/nepal_wdi_2010_2024_working.csv,2026-10-08T13:21:49.515911+00:00
+Years are 2010–2024,True,data/processed/nepal_wdi_2010_2024_working.csv,2026-10-08T13:21:49.515911+00:00
+No duplicate years,True,data/processed/nepal_wdi_2010_2024_working.csv,2026-10-08T13:21:49.515911+00:00
+Country is Nepal,True,data/processed/nepal_wdi_2010_2024_working.csv,2026-10-08T13:21:49.515911+00:00
+Country code is NPL,True,data/processed/nepal_wdi_2010_2024_working.csv,2026-10-08T13:21:49.515911+00:00
+All indicators are numeric,True,data/processed/nepal_wdi_2010_2024_working.csv,2026-10-08T13:21:49.515911+00:00
+Observed values are finite,True,data/processed/nepal_wdi_2010_2024_working.csv,2026-10-08T13:21:49.515911+00:00
+Basic_drinking_water: within 0–100,True,data/processed/nepal_wdi_2010_2024_working.csv,2026-10-08T13:21:49.515911+00:00
+Electricity_access: within 0–100,True,data/processed/nepal_wdi_2010_2024_working.csv,2026-10-08T13:21:49.515911+00:00
+Internet_users: within 0–100,True,data/processed/nepal_wdi_2010_2024_working.csv,2026-10-08T13:21:49.515911+00:00
+Forest_area: within 0–100,True,data/processed/nepal_wdi_2010_2024_working.csv,2026-10-08T13:21:49.515911+00:00
+GDP_per_capita: non-negative,True,data/processed/nepal_wdi_2010_2024_working.csv,2026-10-08T13:21:49.515911+00:00
+Secondary_school_enrollment: non-negative,True,data/processed/nepal_wdi_2010_2024_working.csv,2026-10-08T13:21:49.515911+00:00
+CO2_per_capita_excl_LULUCF: non-negative,True,data/processed/nepal_wdi_2010_2024_working.csv,2026-10-08T13:21:49.515911+00:00
+Life expectancy is positive,True,data/processed/nepal_wdi_2010_2024_working.csv,2026-10-08T13:21:49.515911+00:00
