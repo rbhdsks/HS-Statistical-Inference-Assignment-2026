@@ -1,0 +1,3 @@
+Indicator,Year,Code,WDI_value,Status,URL,Source_last_updated,Raw_file
+Secondary_school_enrollment,2018,SE.SEC.ENRR,,NO_VALUE_RETURNED,https://api.worldbank.org/v2/country/NPL/indicator/SE.SEC.ENRR?source=2&date=2018&format=json&per_page=100,2026-10-08,data/raw/missing_recheck_20261011T125644987466Z/SE.SEC.ENRR_2018.json
+Forest_area,2024,AG.LND.FRST.ZS,43.5972793861179,VALUE_AVAILABLE,https://api.worldbank.org/v2/country/NPL/indicator/AG.LND.FRST.ZS?source=2&date=2024&format=json&per_page=100,2026-10-08,data/raw/missing_recheck_20261011T125644987466Z/AG.LND.FRST.ZS_2024.json

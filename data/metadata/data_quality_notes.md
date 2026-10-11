@@ -2,7 +2,7 @@
 
 - Country: Nepal (NPL). Analysis period: 2010–2024.
 - Working dataset: data/processed/nepal_wdi_2010_2024_working.csv.
-- All 15 implemented structural and plausibility checks passed.
+- Implemented checks passed: {int(quality_checks["Passed"].sum())}/{len(quality_checks)}.
 - Secondary school enrollment is missing for 2018.
 - Forest area is missing for 2024.
 - Exact-year API rechecks returned no value for both missing observations.

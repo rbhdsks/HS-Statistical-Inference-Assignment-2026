@@ -1,0 +1,9 @@
+{
+  "assignment_code": "EN.ATM.CO2E.PC",
+  "candidate_code": "EN.GHG.CO2.PC.CE.AR5",
+  "unit": "t CO2e/capita",
+  "downloaded_at_utc": "2026-10-11T12:56:44.880869+00:00",
+  "url": "https://api.worldbank.org/v2/country/NPL/indicator/EN.GHG.CO2.PC.CE.AR5?source=2&date=2010%3A2024&format=json&per_page=100",
+  "source_last_updated": "2026-10-08",
+  "role": "Candidate alternative series"
+}

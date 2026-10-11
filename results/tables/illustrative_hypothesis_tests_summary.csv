@@ -1,0 +1,3 @@
+Test,Method,N,Estimate,Unit,t_statistic,df,p_value,Decision,Alpha,Status
+1: GDP growth versus zero,One-sample t-test,15,4.258076382816741,annual %,5.86978232728533,14,4.076278524182863e-05,Reject H0,0.05,Illustrative; assumptions/course suitability unresolved
+2: Electricity minus basic drinking water,Paired t-test,15,-4.4883518164917655,percentage points,-2.4485549160312634,14,0.02812189940126306,Reject H0,0.05,Illustrative; assumptions/course suitability unresolved

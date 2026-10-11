@@ -1,0 +1,4 @@
+X,Y,Paired_N,Excluded_years,Sample_covariance,Covariance_unit,Pearson_r
+GDP_per_capita,Life_expectancy,15,None,174.8354157075305,(constant 2015 US$ per person) × (Years),0.9465185536910482
+GDP_per_capita,Electricity_access,15,None,1284.0840783475126,(constant 2015 US$ per person) × (Population (%)),0.9041045419245646
+GDP_per_capita,CO2_per_capita_excl_LULUCF,15,None,21.427134979265507,(constant 2015 US$ per person) × (t CO₂e per capita),0.9228964126218728

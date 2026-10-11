@@ -1,0 +1,6 @@
+{
+  "downloaded_at_utc": "2026-10-11T12:55:08.989749+00:00",
+  "url": "https://api.worldbank.org/v2/country/NPL/indicator/NY.GDP.PCAP.KD?source=2&date=2010%3A2024&format=json&per_page=100",
+  "source_last_updated": "2026-10-08",
+  "indicator_code": "NY.GDP.PCAP.KD"
+}

@@ -1,0 +1,71 @@
+{
+  "GDP_per_capita": {
+    "code": "NY.GDP.PCAP.KD",
+    "url": "https://api.worldbank.org/v2/country/NPL/indicator/NY.GDP.PCAP.KD?source=2&date=2010%3A2024&format=json&per_page=100",
+    "downloaded_at_utc": "2026-10-11T12:45:56.263833+00:00",
+    "source_last_updated": "2026-10-08",
+    "raw_file": "data/raw/20261011T124556195639Z/NY.GDP.PCAP.KD.json",
+    "status": "OK"
+  },
+  "GDP_growth": {
+    "code": "NY.GDP.MKTP.KD.ZG",
+    "url": "https://api.worldbank.org/v2/country/NPL/indicator/NY.GDP.MKTP.KD.ZG?source=2&date=2010%3A2024&format=json&per_page=100",
+    "downloaded_at_utc": "2026-10-11T12:45:57.158017+00:00",
+    "source_last_updated": "2026-10-08",
+    "raw_file": "data/raw/20261011T124556195639Z/NY.GDP.MKTP.KD.ZG.json",
+    "status": "OK"
+  },
+  "Life_expectancy": {
+    "code": "SP.DYN.LE00.IN",
+    "url": "https://api.worldbank.org/v2/country/NPL/indicator/SP.DYN.LE00.IN?source=2&date=2010%3A2024&format=json&per_page=100",
+    "downloaded_at_utc": "2026-10-11T12:45:57.929336+00:00",
+    "source_last_updated": "2026-10-08",
+    "raw_file": "data/raw/20261011T124556195639Z/SP.DYN.LE00.IN.json",
+    "status": "OK"
+  },
+  "Basic_drinking_water": {
+    "code": "SH.H2O.BASW.ZS",
+    "url": "https://api.worldbank.org/v2/country/NPL/indicator/SH.H2O.BASW.ZS?source=2&date=2010%3A2024&format=json&per_page=100",
+    "downloaded_at_utc": "2026-10-11T12:45:58.580728+00:00",
+    "source_last_updated": "2026-10-08",
+    "raw_file": "data/raw/20261011T124556195639Z/SH.H2O.BASW.ZS.json",
+    "status": "OK"
+  },
+  "Secondary_school_enrollment": {
+    "code": "SE.SEC.ENRR",
+    "url": "https://api.worldbank.org/v2/country/NPL/indicator/SE.SEC.ENRR?source=2&date=2010%3A2024&format=json&per_page=100",
+    "downloaded_at_utc": "2026-10-11T12:45:59.293397+00:00",
+    "source_last_updated": "2026-10-08",
+    "raw_file": "data/raw/20261011T124556195639Z/SE.SEC.ENRR.json",
+    "status": "OK"
+  },
+  "Electricity_access": {
+    "code": "EG.ELC.ACCS.ZS",
+    "url": "https://api.worldbank.org/v2/country/NPL/indicator/EG.ELC.ACCS.ZS?source=2&date=2010%3A2024&format=json&per_page=100",
+    "downloaded_at_utc": "2026-10-11T12:46:00.279943+00:00",
+    "source_last_updated": "2026-10-08",
+    "raw_file": "data/raw/20261011T124556195639Z/EG.ELC.ACCS.ZS.json",
+    "status": "OK"
+  },
+  "Internet_users": {
+    "code": "IT.NET.USER.ZS",
+    "url": "https://api.worldbank.org/v2/country/NPL/indicator/IT.NET.USER.ZS?source=2&date=2010%3A2024&format=json&per_page=100",
+    "downloaded_at_utc": "2026-10-11T12:46:01.328772+00:00",
+    "source_last_updated": "2026-10-08",
+    "raw_file": "data/raw/20261011T124556195639Z/IT.NET.USER.ZS.json",
+    "status": "OK"
+  },
+  "CO2_per_capita": {
+    "code": "EN.ATM.CO2E.PC",
+    "status": "DOWNLOAD_FAILED",
+    "error": "Unexpected API response: [{'message': [{'id': '120', 'key': 'Invalid value', 'value': 'The provided parameter value is not valid'}]}]"
+  },
+  "Forest_area": {
+    "code": "AG.LND.FRST.ZS",
+    "url": "https://api.worldbank.org/v2/country/NPL/indicator/AG.LND.FRST.ZS?source=2&date=2010%3A2024&format=json&per_page=100",
+    "downloaded_at_utc": "2026-10-11T12:46:04.282160+00:00",
+    "source_last_updated": "2026-10-08",
+    "raw_file": "data/raw/20261011T124556195639Z/AG.LND.FRST.ZS.json",
+    "status": "OK"
+  }
+}

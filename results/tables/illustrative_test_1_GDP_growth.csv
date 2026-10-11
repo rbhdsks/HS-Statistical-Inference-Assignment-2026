@@ -1,0 +1,2 @@
+Indicator,H0,H1,N,Mean,Null_mean,SE_under_IID,t_statistic,df,Critical_abs_t,p_value,Alpha,Decision_under_assumptions,Status
+GDP_growth,mu = 0%,mu != 0%,15,4.258076382816741,0.0,0.7254232176589119,5.86978232728533,14,2.1447866879169273,4.076278524182863e-05,0.05,Reject H0,Illustrative; assumptions/course suitability unresolved

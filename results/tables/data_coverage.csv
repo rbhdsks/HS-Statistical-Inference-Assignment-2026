@@ -7,4 +7,4 @@ Secondary_school_enrollment,SE.SEC.ENRR,14,1,2018,OK
 Electricity_access,EG.ELC.ACCS.ZS,15,0,,OK
 Internet_users,IT.NET.USER.ZS,15,0,,OK
 CO2_per_capita,EN.ATM.CO2E.PC,,,Not assessed: download failed,DOWNLOAD_FAILED
-Forest_area,AG.LND.FRST.ZS,14,1,2024,OK
+Forest_area,AG.LND.FRST.ZS,15,0,,OK

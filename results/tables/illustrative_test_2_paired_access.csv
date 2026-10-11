@@ -1,0 +1,2 @@
+Comparison,Unit,H0,H1,Paired_N,Excluded_years,Mean_difference,SD_difference,SE_under_IID,t_statistic,df,p_value,Alpha,Decision_under_assumptions,Status
+Electricity minus basic drinking water,percentage points,Mean difference = 0,Mean difference != 0,15,None,-4.4883518164917655,7.099416771655721,1.833061528293882,-2.4485549160312634,14,0.02812189940126306,0.05,Reject H0,Illustrative; assumptions/course suitability unresolved

@@ -1,0 +1,3 @@
+Indicator,N,Mean,Sample_SD,SE_under_IID_assumption,Population_sigma_known,Status
+GDP_growth,15,4.258076382816741,2.809552040945164,0.7254232176589119,False,Preparation only; inferential method pending
+Life_expectancy,15,68.54199999999999,1.212619596458132,0.31309703349114026,False,Preparation only; inferential method pending
