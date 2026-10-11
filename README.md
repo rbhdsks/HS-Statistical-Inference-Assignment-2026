@@ -4,7 +4,7 @@
 
 An investigation of how Nepal's economic, social, infrastructure, technological, and environmental indicators evolved across 15 years. The project follows a complete statistical workflow: acquire and document the observations, assess their quality, describe distributions and trends, quantify variation, conduct appropriate inference, and interpret relationships with explicit limitations.
 
-**Current milestone:** the working dataset has been downloaded and assembled. Measurement documentation and data-quality checks are in progress. Statistical results and the final report are pending.
+**Current milestone:** the working dataset has been downloaded and assembled. Measurement documentation and data-quality checks are in progress. Statistical results and the final report completed and hypothesis testing is remaining.
 
 | Project detail | Value |
 | --- | --- |
@@ -13,9 +13,10 @@ An investigation of how Nepal's economic, social, infrastructure, technological,
 | Unit of observation | One country-year |
 | Working dataset | 15 rows; 9 indicators and 3 identification columns |
 | Primary source | World Bank WDI, API source `2` |
-| Author | Nitesh Kumar Shah · `ID25M806` |
-| Academic context | Statistical Inference · M.Tech, Data Science & AI · IIT Madras |
-| Last verified local progress | 7 October 2026 |
+| Student | Nitesh Kumar Shah · `ID25M806` |
+|Course Instructor | Prof. Santosh Kumar Sahu |
+| Academic context | Statistical Inference (Course offered by Dept. of HSS, Economics)· M.Tech, Data Science & AI · IIT Madras |
+| Last verified local progress | 12 October 2026 |
 
 [Research questions](#research-questions) · [Roadmap](#project-roadmap) · [Data](#data-and-coverage) · [Repository](#repository-organization) · [Reproduction](#environment-and-reproduction) · [Submission](#final-submission) · [References](#references)
 

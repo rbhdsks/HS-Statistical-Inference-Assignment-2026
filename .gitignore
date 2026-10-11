@@ -7,3 +7,5 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 .DS_Store
+notebooks/Statistical-Inference-Assignment.code-workspace
+notebooks/.gitkeep
