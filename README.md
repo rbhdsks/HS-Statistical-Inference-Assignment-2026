@@ -257,14 +257,14 @@ The report follows the assignment's sequence: introduction; data and measurement
 - [x] Establish the project environment and folder structure.
 - [x] Preserve the API downloads and acquisition logs.
 - [x] Assemble the working dataset and record coverage.
-- [ ] Complete the metadata dictionary and quality checks.
-- [ ] Record the final resolution of the CO₂ indicator requirement.
-- [ ] Export all required statistics and 16 plots or panels with interpretation.
-- [ ] Complete two 95% confidence intervals and two hypothesis tests.
-- [ ] Complete the three required relationship analyses and confounding discussion.
-- [ ] Investigate one unusual observation or data-quality feature.
-- [ ] Finish the report and appendix.
-- [ ] Verify the submission against the saved snapshot and record its Git commit.
+- [x] Complete the metadata dictionary and quality checks.
+- [x] Record the final resolution of the CO₂ indicator requirement.
+- [x] Export all required statistics and 16 plots or panels with interpretation.
+- [x] Complete two 95% confidence intervals and two hypothesis tests.
+- [x] Complete the three required relationship analyses and confounding discussion.
+- [x] Investigate one unusual observation or data-quality feature.
+- [x] Finish the report and appendix.
+- [x] Verify the submission against the saved snapshot and record its Git commit.
 
 ## References
 
